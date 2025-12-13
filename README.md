@@ -6,7 +6,8 @@
 
 ## 关于中国开源年会 (COSCon)
 
-中国开源年会（China Open Source Conference，简称 COSCon）是由[开源社](https://kaiyuanshe.cn)于2015年发起并主办的中国年度开源盛会。
+中国开源年会 COSCon 是业界最具影响力的开源盛会之一，由[开源社](https://kaiyuanshe.cn)在 2015 年首次联合 Apache Roadshow 2015 China 发起，2016 年正式得以命名。九年来，中国开源年会以其独特的中立社区定位及日益增加的影响力，吸引了越来越多国内外企业、高校、开源组织和社区的大力支持。从 2016 年 “源力觉醒” 点燃技术圈的小众星火，到 2024 年 “Open Source Open Life” 推动开源深度融入衣食住行的日常 —— COSCon 始终与中国开源同行，推动着开源从技术圈的 “小众实践”，成长为驱动产业创新的 “核心力量”。
+2025 年，站在第十年的里程碑节点，我们以 “众智开源 | Open Source， Open Intelligence” 为主题，聚焦 AI 与开源的深度融合，探索 “人类 + 机器” 协同创智的全新可能。
 
 ### 会议概况
 
@@ -66,6 +67,7 @@
 ## 相关链接
 
 - [开源社官网](https://kaiyuanshe.cn)
+- [历年中国开源年会](https://kaiyuanshe.cn/events/coscon)
 
 - [COSCon'19 会议官网](https://www.bagevent.com/event/5744455)
 - [COSCon'20 会议官网](https://www.bagevent.com/event/6840909)
